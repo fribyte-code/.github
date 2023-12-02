@@ -1,12 +1,17 @@
-# Hello, velkommen til friByte sin GitHub👋
+# Hello, welcome to friByte's GitHub👋
 
-Som du sikkert vet så er friByte en studentorganisasjon med mål om å drive IT-drift for andre studentorganisasjoner i Bergen, der vi tilbyr rimelige web- og IT-tjenester tilpasset studentorganisasjonene.
+As you probably know, friByte is a student organization with the aim of running IT operations for other student organizations in Bergen, where we offer affordable web and IT services adapted to the student organizations.
 
-Dette er noe vi faktisk har gjort helt siden **24. februar, 2002**, da en gruppe studenter fra **E-tjenesten** ønsket å starte en organisasjon som rendyrket drift av avanserte IT-systemer.
+This is something we have actually been doing ever since **24. February, 2002**, when a group of students from **E-tjenesten** wanted to start an organization that cultivated the operation of advanced IT systems.
 
-## Målet til friByte
+## The goal of friByte
 
-- Levere sikre IT-tjenester av høy kvalitet til studentorganisasjoner.
-- Opprettholde et aktivt læremiljø for IT-interesserte studenter.
-- Pådriver for etisk bruk av programvare og persondata.
-- Være en bidragsyter for utvikling og forbedring av åpen og fri programvare.
+- Deliver secure, high-quality IT services to student organisations.
+- Maintain an active learning environment for students interested in IT.
+- Promoter for the ethical use of software and personal data.
+- Be a contributor to the development and improvement of open and free software.
+
+<details>
+<summary>Translations:</summary>  
+- [Norwegian](translations/README-no.md)
+</details>
