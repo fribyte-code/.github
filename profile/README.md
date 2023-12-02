@@ -13,5 +13,7 @@ This is something we have actually been doing ever since **24. February, 2002**,
 
 <details>
 <summary>Translations:</summary>  
-- [Norwegian](https://github.com/fribyte-code/.github/blob/main/profile/translations/README-no.md)
+  
+- [Norwegian](translations/README-no.md)
+
 </details>
