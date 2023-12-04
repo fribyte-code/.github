@@ -11,6 +11,10 @@ This is something we have actually been doing ever since **24. February, 2002**,
 - Promoter for the ethical use of software and personal data.
 - Be a contributor to the development and improvement of open and free software.
 
+## Open source guidelines
+
+See [retninglinjer.md](https://github.com/fribyte-code/.github/blob/main/retningslinjer.md) for our open source guidelines.
+
 <details>
 <summary>Translations:</summary>  
   
