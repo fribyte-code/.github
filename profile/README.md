@@ -13,11 +13,11 @@ This is something we have actually been doing ever since **24. February, 2002**,
 
 ## Open source guidelines
 
-See [guidelines](../guidelines/guidelines.md) for our open source guidelines.
+See [guidelines](https://github.com/fribyte-code/.github/blob/main/guidelines/guidelines.md) for our open source guidelines.
 
 <details>
 <summary>Translations:</summary>  
   
-- [Norwegian](translations/README-no.md)
+- [Norwegian](https://github.com/fribyte-code/.github/blob/main/profile/translations/README-no.md)
 
 </details>

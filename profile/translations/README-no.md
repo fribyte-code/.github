@@ -13,11 +13,11 @@ Dette er noe vi faktisk har gjort helt siden **24. februar, 2002**, da en gruppe
 
 ## Open source retningslinjer
 
-Sjekk ut [retningslinjer](../../guidelines/guidelines-no.md) for våres open source retningslinjer.
+Sjekk ut [retningslinjer](https://github.com/fribyte-code/.github/blob/main/guidelines/guidelines-no.md) for våres open source retningslinjer.
 
 <details>
 <summary>Oversettelser:</summary>  
   
-- [Engelsk](../README.md)
+- [Engelsk](https://github.com/fribyte-code/.github/blob/main/profile/README.md)
 
 </details>
