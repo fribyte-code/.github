@@ -38,7 +38,8 @@ Som del av friByte-fellesskapet er det ditt ansvar å:
 
 Som grunnprinsipp ønsker vi at alle repo skal være åpen. Men repo som "admin",
 bør ikke være åpen da det inneholder navn og diverse informasjon som kan anses som privat.
-Ellers har vi repo som CTF som blir holdt lukket i en periode da det inneholder svar på oppgaver.
+Ellers har vi repo som "ctf-tasks" som blir holdt lukket i en periode da det inneholder svar på oppgaver.
+
 Men generelt sett kan og bør alt være åpent.
 
 ## Krav til åpne repo under github.com/fribyte-code
