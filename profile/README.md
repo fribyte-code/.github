@@ -13,7 +13,7 @@ This is something we have actually been doing ever since **24. February, 2002**,
 
 ## Open source guidelines
 
-See [retninglinjer.md](https://github.com/fribyte-code/.github/blob/main/retningslinjer.md) for our open source guidelines.
+See [guidelines](../guidelines/guidelines.md) for our open source guidelines.
 
 <details>
 <summary>Translations:</summary>  

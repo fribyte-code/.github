@@ -10,3 +10,14 @@ Dette er noe vi faktisk har gjort helt siden **24. februar, 2002**, da en gruppe
 - Opprettholde et aktivt læremiljø for IT-interesserte studenter.
 - Pådriver for etisk bruk av programvare og persondata.
 - Være en bidragsyter for utvikling og forbedring av åpen og fri programvare.
+
+## Open source retningslinjer
+
+Sjekk ut [retningslinjer](../../guidelines/guidelines-no.md) for våres open source retningslinjer.
+
+<details>
+<summary>Oversettelser:</summary>  
+  
+- [Engelsk](../README.md)
+
+</details>
